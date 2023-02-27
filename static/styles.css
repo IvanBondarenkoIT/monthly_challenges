@@ -1,0 +1,9 @@
+@import url('https://fonts.googleapis.com/css2?family=Merriweather&family=Montserrat&family=Roboto+Condensed:wght@400;700&family=Sacramento&display=swap');
+
+html {
+    font-family: 'Roboto Condensed', sans-serif;
+}
+
+body {
+    margin: 0;
+}
